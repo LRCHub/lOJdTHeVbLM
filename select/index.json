@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "助演男優賞",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-02T15:52:31.746027Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "助演男優賞",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_助演男優賞_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "助演男優賞 - SPARK!!SOUND!!SHOW!!時として主役を喰っちまうRemix",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_助演男優賞_-_SPARK!!SOUND!!SHOW!!時として主役を喰っちまうRemix_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "助演男優賞 - Joendanyusho",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/03_助演男優賞_-_Joendanyusho_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "助演男優賞",
+      "artist": "Creepy Nuts(R-指定&DJ松永)",
+      "has_synced": false,
+      "path": "select/pl_01_助演男優賞_Creepy_Nuts(R-指定&DJ松永).txt"
+    }
+  ]
+}
